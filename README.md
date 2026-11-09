@@ -34,14 +34,7 @@ tests/test_recsys.py    unit tests
 docs/                   results.json, weight_tuning.txt, demo_transcript.txt
 ```
 
-## Foundation and credits
-Built on standard techniques taught in the course lecture: TF-IDF/cosine-similarity content-based filtering,
-item-based nearest-neighbour collaborative filtering, ALS matrix factorisation, weighted hybrids and
-MMR-style diversity re-ranking. Background sources (all 2020-2026) are listed in the report, mainly
-Roy & Dutta (2022), Fayyaz et al. (2020), Rendle et al. (2020), Jannach et al. (2021), Min et al. (2020),
-Zhang & Chen (2020), Castells & Moffat (2022), Meurisch et al. (2020) and Shneiderman (2020).
-Libraries: NumPy, pandas, scikit-learn. A generative AI assistant (Claude, Anthropic) helped draft the code.
-**<STUDENT: name the specific lecture example / tutorial / repository you started from here.>**
+
 
 ### What was changed or added relative to a basic content-based recommender
 1. Hybrid of three models with a blend and a popularity fall-back (cold start).
