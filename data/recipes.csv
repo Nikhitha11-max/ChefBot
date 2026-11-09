@@ -1,0 +1,74 @@
+recipe_id,title,minutes,tags,description
+1,Spaghetti Carbonara,25,Italian|Pasta|Comfort|Quick,"Spaghetti tossed with crisp pork, eggs and cheese into a silky peppery sauce."
+2,Margherita Pizza,40,Italian|Baking|Vegetarian|Comfort,"Thin crust topped with tomato, fresh mozzarella and basil, baked until blistered."
+3,Mushroom Risotto,45,Italian|Rice|Vegetarian|Comfort|Gluten-Free,"Creamy arborio rice stirred slowly with mushrooms, white wine and parmesan."
+4,Lasagna Bolognese,90,Italian|Pasta|Comfort|Baking,"Layers of pasta, slow meat ragu, bechamel and cheese baked until bubbling."
+5,Caprese Salad,10,Italian|Salad|Vegetarian|Healthy|Quick|Gluten-Free,"Sliced tomato, mozzarella and basil drizzled with olive oil and balsamic."
+6,Tiramisu,30,Italian|Dessert|Vegetarian,Coffee-soaked ladyfingers layered with whipped mascarpone cream and cocoa.
+7,Minestrone Soup,50,Italian|Soup|Vegan|Healthy|Comfort,Chunky vegetable and bean soup with small pasta in a tomato broth.
+8,Chicken Parmesan,45,Italian|Comfort|Baking,Breaded chicken cutlets baked under tomato sauce and melted cheese.
+9,Beef Tacos,25,Mexican|Quick|Spicy,"Seasoned ground beef in warm tortillas with salsa, lettuce and cheese."
+10,Chicken Enchiladas,50,Mexican|Comfort|Baking|Spicy,Rolled tortillas filled with chicken and smothered in chili sauce and cheese.
+11,Guacamole and Chips,10,Mexican|Vegan|Quick|Healthy|Gluten-Free,"Mashed avocado with lime, onion, cilantro and chili served with crisp chips."
+12,Black Bean Burrito Bowl,25,Mexican|Rice|Vegan|Healthy|Quick,"Rice, black beans, corn and salsa piled in a bowl with lime and avocado."
+13,Chilaquiles,30,Mexican|Breakfast|Spicy|Comfort,Fried tortilla pieces simmered in red salsa and topped with egg and crema.
+14,Fish Tacos,30,Mexican|Seafood|Quick|Healthy,Grilled white fish in tortillas with cabbage slaw and lime crema.
+15,Butter Chicken,50,Indian|Curry|Comfort|Spicy|Gluten-Free,Tender chicken simmered in a creamy tomato and butter sauce with warm spices.
+16,Chana Masala,35,Indian|Curry|Vegan|Healthy|Spicy|Gluten-Free,Chickpeas stewed in a tangy tomato and onion gravy with ginger and garam masala.
+17,Palak Paneer,40,Indian|Curry|Vegetarian|Healthy|Gluten-Free,Cubes of fresh cheese in a smooth spiced spinach sauce.
+18,Vegetable Biryani,60,Indian|Rice|Vegetarian|Spicy|Comfort,"Fragrant basmati rice layered with spiced vegetables, saffron and fried onion."
+19,Lamb Rogan Josh,90,Indian|Curry|Spicy|Comfort|Gluten-Free,Slow-cooked lamb in a deep red sauce of Kashmiri chili and yogurt.
+20,Red Lentil Dal,30,Indian|Soup|Vegan|Healthy|Quick|Gluten-Free,"Soft red lentils simmered with turmeric, garlic and a sizzling cumin tempering."
+21,Pad Thai,30,Thai|Noodles|Quick|Spicy,"Stir-fried rice noodles with egg, peanuts, lime and tamarind sauce."
+22,Green Curry,40,Thai|Curry|Spicy|Gluten-Free,"Coconut curry with green chili paste, basil, bamboo shoots and chicken."
+23,Tom Yum Soup,30,Thai|Soup|Seafood|Spicy|Healthy|Gluten-Free,"Hot and sour broth with shrimp, lemongrass, galangal and mushrooms."
+24,Mango Sticky Rice,40,Thai|Dessert|Vegan|Rice|Gluten-Free,Sweet coconut sticky rice served with slices of ripe mango.
+25,Thai Basil Stir Fry,20,Thai|Quick|Spicy|Rice,Minced meat and chilies wok-fried with holy basil and served over rice.
+26,Kung Pao Chicken,30,Chinese|Quick|Spicy,"Diced chicken stir-fried with peanuts, dried chilies and a sweet-sour glaze."
+27,Vegetable Fried Rice,20,Chinese|Rice|Vegetarian|Quick,"Day-old rice wok-tossed with egg, peas, carrots and soy sauce."
+28,Mapo Tofu,30,Chinese|Spicy|Vegetarian|Quick,"Soft tofu in a numbing, chili-bean sauce with scallions."
+29,Pork Dumplings,60,Chinese|Comfort,"Hand-folded dumplings filled with pork and cabbage, steamed or pan-fried."
+30,Hot and Sour Soup,30,Chinese|Soup|Spicy|Quick,"Peppery vinegar broth with tofu, mushrooms and egg ribbons."
+31,Salmon Sushi Bowl,25,Japanese|Seafood|Rice|Healthy|Quick,"Sushi rice topped with raw salmon, cucumber, avocado and sesame."
+32,Chicken Katsu,35,Japanese|Comfort|Rice,Panko-crusted fried chicken cutlet served with tangy brown sauce.
+33,Miso Soup,15,Japanese|Soup|Vegetarian|Healthy|Quick,"Light dashi broth with miso paste, tofu and seaweed."
+34,Vegetable Ramen,40,Japanese|Noodles|Soup|Vegetarian|Comfort,"Chewy noodles in a savory broth with mushrooms, corn and greens."
+35,Teriyaki Salmon,25,Japanese|Seafood|Quick|Healthy,Pan-seared salmon glazed with sweet soy teriyaki sauce.
+36,Classic Cheeseburger,30,American|Grill|Comfort|Sandwich,"Juicy beef patty with melted cheese, pickles and a toasted bun."
+37,Mac and Cheese,35,American|Pasta|Vegetarian|Comfort|Baking,Elbow pasta in a rich cheddar sauce with a crunchy breadcrumb top.
+38,Pancakes with Maple Syrup,25,American|Breakfast|Dessert|Vegetarian|Quick,Fluffy buttermilk pancakes stacked high and drenched in maple syrup.
+39,BBQ Pulled Pork Sandwich,240,American|Grill|Sandwich|Comfort,"Pork shoulder slow-cooked until tender, shredded in smoky barbecue sauce."
+40,Chocolate Chip Cookies,35,American|Dessert|Baking|Vegetarian,"Soft, chewy cookies loaded with chocolate chunks and brown sugar."
+41,Apple Pie,90,American|Dessert|Baking|Vegetarian|Comfort,Cinnamon-spiced apples in a flaky double crust.
+42,Clam Chowder,50,American|Soup|Seafood|Comfort,"Creamy New England soup with clams, potatoes and bacon."
+43,Southern Fried Chicken,60,American|Comfort,Buttermilk-brined chicken coated in seasoned flour and fried until crackly.
+44,Greek Salad,15,Mediterranean|Salad|Vegetarian|Healthy|Quick|Gluten-Free,"Tomato, cucumber, olives and feta with oregano and olive oil."
+45,Hummus and Pita,15,Mediterranean|Vegan|Healthy|Quick,Smooth chickpea and tahini dip scooped up with warm pita bread.
+46,Grilled Lemon Chicken,35,Mediterranean|Grill|Healthy|Gluten-Free,"Chicken marinated in lemon, garlic and herbs and grilled until charred."
+47,Shakshuka,30,Mediterranean|Breakfast|Vegetarian|Spicy|Gluten-Free,"Eggs poached in a spiced tomato and pepper sauce, served with bread."
+48,Falafel Wrap,35,Middle-Eastern|Sandwich|Vegan|Healthy,"Crisp chickpea fritters wrapped with pickles, greens and tahini sauce."
+49,Lamb Kofta Skewers,35,Middle-Eastern|Grill|Spicy|Gluten-Free,Spiced minced lamb shaped onto skewers and grilled with yogurt dip.
+50,Baklava,75,Middle-Eastern|Dessert|Baking|Vegetarian,"Layers of crisp pastry, chopped nuts and honey syrup."
+51,Tabbouleh,20,Middle-Eastern|Salad|Vegan|Healthy|Quick,"Finely chopped parsley with tomato, bulgur and lemon."
+52,Seafood Paella,70,Mediterranean|Rice|Seafood|Gluten-Free,"Saffron rice cooked with shrimp, mussels and squid in a wide pan."
+53,Ratatouille,60,French|Vegan|Healthy|Gluten-Free,Slow-baked summer vegetables in a herby tomato base.
+54,French Onion Soup,70,French|Soup|Comfort|Vegetarian,Deeply caramelized onions in broth under a melted cheese crouton.
+55,Croque Monsieur,20,French|Sandwich|Comfort|Quick,Toasted ham and cheese sandwich finished with a creamy bechamel.
+56,Coq au Vin,100,French|Comfort|Gluten-Free,"Chicken braised in red wine with mushrooms, bacon and pearl onions."
+57,Creme Brulee,60,French|Dessert|Vegetarian|Gluten-Free,Silky vanilla custard with a thin crackling caramelized sugar top.
+58,Crepes with Berries,30,French|Breakfast|Dessert|Vegetarian|Quick,Thin pancakes folded around fresh berries and whipped cream.
+59,Quinoa Veggie Bowl,30,Healthy|Vegan|Rice|Quick|Gluten-Free,"Quinoa with roasted vegetables, chickpeas and a lemony tahini drizzle."
+60,Avocado Toast with Egg,10,Breakfast|Vegetarian|Healthy|Quick|Sandwich,"Toasted sourdough topped with smashed avocado, a fried egg and chili flakes."
+61,Overnight Oats,10,Breakfast|Vegetarian|Healthy|Quick,"Oats soaked in milk and yogurt with fruit and nuts, ready by morning."
+62,Lentil Vegetable Soup,45,Soup|Vegan|Healthy|Comfort|Gluten-Free,"Hearty lentils simmered with carrots, celery and tomatoes."
+63,Chicken Caesar Salad,20,Salad|Quick|American,"Romaine with grilled chicken, parmesan, croutons and creamy dressing."
+64,Grilled Cheese Sandwich,10,Sandwich|Vegetarian|Comfort|Quick|American,Buttery toasted bread with gooey melted cheese.
+65,Sweet Potato Black Bean Chili,50,Vegan|Spicy|Comfort|Healthy|Gluten-Free,"Smoky chili with sweet potato, black beans and tomatoes."
+66,Banana Bread,70,Dessert|Baking|Vegetarian|Breakfast|Comfort,Moist loaf made with ripe bananas and a hint of cinnamon.
+67,Chocolate Lava Cake,25,Dessert|Baking|Vegetarian|Quick,Individual chocolate cakes with a warm molten center.
+68,Lemon Garlic Shrimp,15,Seafood|Quick|Gluten-Free|Healthy,Shrimp sauteed in garlic butter with lemon juice and parsley.
+69,Grilled Fish with Salsa Verde,30,Seafood|Grill|Healthy|Mediterranean|Gluten-Free,Whole fish grilled and served with a punchy herb and caper sauce.
+70,Pasta Primavera,30,Italian|Pasta|Vegetarian|Healthy|Quick,"Spring vegetables tossed with pasta, olive oil and parmesan."
+71,Beef Stew,150,Comfort|American|Gluten-Free,"Chunks of beef braised slowly with potatoes, carrots and red wine."
+72,Vegan Buddha Bowl,25,Healthy|Vegan|Quick|Gluten-Free,"Greens, roasted sweet potato, edamame and avocado with peanut dressing."
+73,Stuffed Bell Peppers,55,Comfort|Mediterranean|Baking|Gluten-Free,"Peppers stuffed with rice, ground meat and tomato, then baked."

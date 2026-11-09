@@ -1,0 +1,6 @@
+weights=(0.7, 0.2, 0.1)  NDCG@10 tune=0.361  check=0.347
+weights=(0.7, 0.3, -0.0)  NDCG@10 tune=0.359  check=0.331
+weights=(0.6, 0.2, 0.2)  NDCG@10 tune=0.356  check=0.337
+weights=(0.8, 0.2, -0.0)  NDCG@10 tune=0.352  check=0.342
+weights=(0.8, 0.1, 0.1)  NDCG@10 tune=0.351  check=0.351
+default (0.6,0.2,0.2): 0.356 0.337

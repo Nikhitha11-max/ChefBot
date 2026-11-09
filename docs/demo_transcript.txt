@@ -1,0 +1,118 @@
+ChefBot: Hi, I'm ChefBot. Tell me a dish you loved (e.g. "I loved Pad Thai"), tell me your diet ("I'm vegetarian"), or type "help".
+
+You: hello
+ChefBot: Here is what I understand:
+  - "I loved Pad Thai and Chana Masala"     (also: liked / hated / disliked)
+  - "rate Beef Stew 2"                       (rate a recipe 1-5)
+  - "I'm vegetarian" / "I'm vegan" / "I'm gluten-free"   (diet filter kept for the whole chat)
+  - "recommend" or "what should I cook?"     (add words: "something spicy", "quick dessert", "under 30 minutes")
+  - "something like Butter Chicken"          (similar recipes)
+  - "surprise me"  /  "more"                 (more variety / the next picks)
+  - "why"                                    (explain the last recommendations)
+  - "my ratings", "my diet", "undo", "reset" (see / fix your profile)
+  - "proactive on|off"                       (let me volunteer suggestions, or not)
+  - "quit"
+Note: my tags are not allergen information - always check ingredients yourself.
+
+
+You: I'm vegetarian
+ChefBot: Got it - I'll only suggest Vegetarian recipes from now on. (Tags are a guide, not an allergen guarantee.)
+
+You: recommend
+ChefBot: Here are my picks (Vegetarian) - crowd favourites; tell me what you like to personalise this:
+  1. Banana Bread (70 min) [Baking, Breakfast, Comfort, Dessert, Vegetarian]
+       -> Rated 3.8/5 by 51 cooks
+  2. Chocolate Chip Cookies (35 min) [American, Baking, Dessert, Vegetarian]
+       -> Rated 3.8/5 by 56 cooks
+  3. Crepes with Berries (30 min) [Breakfast, Dessert, French, Quick, Vegetarian]
+       -> Rated 3.7/5 by 47 cooks
+  4. Avocado Toast with Egg (10 min) [Breakfast, Healthy, Quick, Sandwich, Vegetarian]
+       -> Rated 3.7/5 by 53 cooks
+  5. Guacamole and Chips (10 min) [Gluten-Free, Healthy, Mexican, Quick, Vegan]
+       -> Rated 3.5/5 by 51 cooks
+Ask "why" for explanations or "more" for others.
+
+You: I loved Chana Masala and Palak Paneer
+ChefBot: Noted - you loved Chana Masala and Palak Paneer. (I know 2 of your tastes; personalisation 40%.)
+
+You: I hated Beef Stew
+ChefBot: Noted - you disliked Beef Stew. (I know 3 of your tastes; personalisation 60%.)
+
+You: rate Mapo Tofu 5
+ChefBot: Got it: Mapo Tofu = 5/5. (I know 4 of your tastes; personalisation 80%.)
+
+You: recommend something quick under 30 minutes
+ChefBot: Here are my picks (Quick, Vegetarian, under 30 min):
+  1. Avocado Toast with Egg (10 min) [Breakfast, Healthy, Quick, Sandwich, Vegetarian]
+       -> Because you rated Palak Paneer 5/5 - shared: Healthy, Vegetarian
+  2. Guacamole and Chips (10 min) [Gluten-Free, Healthy, Mexican, Quick, Vegan]
+       -> Because you rated Palak Paneer 5/5 - shared: Gluten-Free, Healthy
+  3. Crepes with Berries (30 min) [Breakfast, Dessert, French, Quick, Vegetarian]
+       -> Because you rated Mapo Tofu 5/5 - shared: Quick, Vegetarian
+  4. Black Bean Burrito Bowl (25 min) [Healthy, Mexican, Quick, Rice, Vegan]
+       -> Because you rated Chana Masala 5/5 - shared: Healthy, Vegan
+  5. Greek Salad (15 min) [Gluten-Free, Healthy, Mediterranean, Quick, Salad, Vegetarian]
+       -> Because you rated Palak Paneer 5/5 - shared: Gluten-Free, Healthy, Vegetarian
+Ask "why" for explanations or "more" for others.
+
+You: why
+ChefBot: Here's my reasoning:
+  Avocado Toast with Egg:
+     - Because you rated Palak Paneer 5/5 - shared: Healthy, Vegetarian
+     - Rated 3.7/5 by 53 cooks
+  Guacamole and Chips:
+     - Because you rated Palak Paneer 5/5 - shared: Gluten-Free, Healthy
+     - Rated 3.5/5 by 51 cooks
+  Crepes with Berries:
+     - Because you rated Mapo Tofu 5/5 - shared: Quick, Vegetarian
+     - Rated 3.7/5 by 47 cooks
+  Black Bean Burrito Bowl:
+     - Because you rated Chana Masala 5/5 - shared: Healthy, Vegan
+     - Rated 3.4/5 by 61 cooks
+  Greek Salad:
+     - Because you rated Palak Paneer 5/5 - shared: Gluten-Free, Healthy, Vegetarian
+     - Rated 3.3/5 by 67 cooks
+
+You: something like Palak Paneer
+ChefBot: If you like Palak Paneer, try:
+  1. Shakshuka (30 min) [Breakfast, Gluten-Free, Mediterranean, Spicy, Vegetarian]
+       -> Similar to Palak Paneer (shared: Gluten-Free, Vegetarian)
+  2. Red Lentil Dal (30 min) [Gluten-Free, Healthy, Indian, Quick, Soup, Vegan]
+       -> Similar to Palak Paneer (shared: Gluten-Free, Healthy, Indian)
+  3. Caprese Salad (10 min) [Gluten-Free, Healthy, Italian, Quick, Salad, Vegetarian]
+       -> Similar to Palak Paneer (shared: Gluten-Free, Healthy, Vegetarian)
+  4. Overnight Oats (10 min) [Breakfast, Healthy, Quick, Vegetarian]
+       -> Similar to Palak Paneer (shared: Healthy, Vegetarian)
+  5. Mango Sticky Rice (40 min) [Dessert, Gluten-Free, Rice, Thai, Vegan]
+       -> Similar to Palak Paneer (shared: Gluten-Free)
+
+You: surprise me
+ChefBot: Here are my picks (Vegetarian) - mixing in some variety:
+  1. Banana Bread (70 min) [Baking, Breakfast, Comfort, Dessert, Vegetarian]
+       -> Rated 3.8/5 by 51 cooks
+  2. Guacamole and Chips (10 min) [Gluten-Free, Healthy, Mexican, Quick, Vegan]
+       -> Because you rated Palak Paneer 5/5 - shared: Gluten-Free, Healthy
+  3. Avocado Toast with Egg (10 min) [Breakfast, Healthy, Quick, Sandwich, Vegetarian]
+       -> Because you rated Palak Paneer 5/5 - shared: Healthy, Vegetarian
+  4. Mushroom Risotto (45 min) [Comfort, Gluten-Free, Italian, Rice, Vegetarian]
+       -> Rated 3.5/5 by 30 cooks
+  5. Falafel Wrap (35 min) [Healthy, Middle-Eastern, Sandwich, Vegan]
+       -> Because you rated Chana Masala 5/5 - shared: Healthy, Vegan
+Ask "why" for explanations or "more" for others.
+
+You: undo
+ChefBot: Undone: Mapo Tofu.
+
+You: my ratings
+ChefBot: Your ratings:
+  Chana Masala (35 min): 5/5
+  Palak Paneer (40 min): 5/5
+  Beef Stew (150 min): 1/5
+
+You: no diet
+ChefBot: Diet filter removed.
+
+[Proactive tip] You keep rating Curry recipes highly - you might enjoy Butter Chicken (50 min). (Because you rated Chana Masala 5/5 - shared: Curry, Gluten-Free, Indian, Spicy). Say "proactive off" to stop these.
+
+You: quit
+ChefBot: Bye! Your profile is not saved (use --profile).
